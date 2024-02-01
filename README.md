@@ -4,8 +4,8 @@ Welcome to the xivtech-weather-assignment repository! This project allows users 
 
 ## Technologies used
 
-**frontend :-** ReactJS, axios, TailwindCSS
-**backend :-** nodeJS, expressJS
+**frontend :-** ReactJS, axios, TailwindCSS.
+**backend :-** nodeJS, expressJS.
 
 ## Local Installation
 
