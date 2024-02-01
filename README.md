@@ -2,18 +2,18 @@
 
 Welcome to the xivtech-weather-assignment repository! This project allows users to enter multiple city names separated by commas and retrieve temperature information.
 
-## technologies used
+## Technologies used
 
 **frontend :-** ReactJS, axios, TailwindCSS
 **backend :-** nodeJS, expressJS
 
 ## Local Installation
 
-Follow the steps below to set up and run the ArticleFeed project locally:
+Follow the steps below to set up and run the Weatger-app project locally:
 
 1. **Clone the Project:**
 
-   Clone the project repository using the following GitHub link: [ArticleFeed Repository](https://github.com/AmanPachauria/xivtech-weather-assignment.git).
+   Clone the project repository using the following GitHub link: [Weather-App Repository](https://github.com/AmanPachauria/xivtech-weather-assignment.git).
 
 2. **Node.js and npm:**
 
